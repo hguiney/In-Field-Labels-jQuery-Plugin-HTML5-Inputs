@@ -139,6 +139,7 @@
 				"input#" + for_attr + "[type='url']," + 
 				"input#" + for_attr + "[type='email']," + 				
 				"input#" + for_attr + "[type='password']," + 
+				"select#" + for_attr + ','
 				"textarea#" + for_attr
 				);
 				
